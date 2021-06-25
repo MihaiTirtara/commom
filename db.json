@@ -1,0 +1,168 @@
+{
+  "rooms": [
+    {
+      "id": "LIVING_ROOM",
+      "display_name": "Living Room"
+    },
+    {
+      "id": "BEDROOM",
+      "display_name": "Bedroom"
+    },
+    {
+      "id": "DINING_ROOM",
+      "display_name": "Dining Room"
+    },
+    {
+      "id": "OFFICE",
+      "display_name": "Office"
+    },
+    {
+      "id": "HALLWAY",
+      "display_name": "Hallway"
+    }
+  ],
+  "styles": [
+    {
+      "id": "SCANDINAVIAN",
+      "display_name": "Scandinavian"
+    },
+    {
+      "id": "INDUSTRIAL",
+      "display_name": "Industrial"
+    },
+    {
+      "id": "MINIMAL",
+      "display_name": "Minimal"
+    },
+    {
+      "id": "MID_CENTURY",
+      "display_name": "Mid Century"
+    },
+    {
+      "id": "MODERN",
+      "display_name": "Modern"
+    },
+    {
+      "id": "CONTEMPORARY",
+      "display_name": "Contemporary"
+    },
+    {
+      "id": "URBAN",
+      "display_name": "Urban"
+    },
+    {
+      "id": "TRADITIONAL",
+      "display_name": "Traditional"
+    },
+    {
+      "id": "GLAMOUR",
+      "display_name": "Glamour"
+    }
+  ],
+  "budget_levels": [
+    {
+      "level": 1,
+      "context": "GLOBAL",
+      "min": 500,
+      "max": 1500
+    },
+    {
+      "level": 2,
+      "context": "GLOBAL",
+      "min": 1500,
+      "max": 2500
+    },
+    {
+      "level": 3,
+      "context": "GLOBAL",
+      "min": 2500,
+      "max": 3500
+    },
+    {
+      "level": 4,
+      "context": "GLOBAL",
+      "min": 3500,
+      "max": 5000
+    },
+    {
+      "level": 5,
+      "context": "GLOBAL",
+      "min": 5000
+    }
+  ],
+  "merchants": [
+    {
+      "id": 1,
+      "display_name": "Made"
+    },
+    {
+      "id": 2,
+      "display_name": "Home24"
+    },
+    {
+      "id": 3,
+      "display_name": "Connox"
+    },
+    {
+      "id": 4,
+      "display_name": "Home-Soul"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Teppich",
+      "types": [
+        "Teppich",
+        "Lammfell"
+      ]
+    },
+    {
+      "name": "Vorhang",
+      "types": [
+        "Vorhang",
+        "Ösenschal",
+        "Schal",
+        "Rollo",
+        "Schlaufenschal"
+      ]
+    },
+    {
+      "name": "Standleuchte",
+      "types": [
+        "Standleuchte",
+        "Bogenlampe"
+      ]
+    },
+    {
+      "name": "Tischleuchte",
+      "types": [
+        "Tischleuchte",
+        "Lampenschirm"
+      ]
+    },
+    {
+      "name": "Deckenleuchte",
+      "types": [
+        "Deckenleuchte",
+        "Deckenstrahler",
+        "Pendelleuchte",
+        "Kronleuchter"
+      ]
+    },
+    {
+      "name": "Sessel",
+      "types": [
+        "Sessel",
+        "Chaiselongue",
+        "Hocker",
+        "Ohrensessel",
+        "Polsterstuhl",
+        "Pouf",
+        "Schaukelstuhl",
+        "Schlafsessel",
+        "Sitzhocker",
+        "Sitzsack"
+      ]
+    }
+  ]
+}
