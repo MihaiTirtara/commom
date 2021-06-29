@@ -93,19 +93,19 @@
   "merchants": [
     {
       "id": 1,
-      "display_name": "Made"
+      "display_name": "Made DE"
     },
     {
       "id": 2,
-      "display_name": "Home24"
+      "display_name": "Home24 DE"
     },
     {
       "id": 3,
-      "display_name": "Connox"
+      "display_name": "Connox DE"
     },
     {
       "id": 4,
-      "display_name": "Home-Soul"
+      "display_name": "Home-Soul DE"
     }
   ],
   "categories": [
